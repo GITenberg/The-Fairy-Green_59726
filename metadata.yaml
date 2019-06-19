@@ -1,11 +1,16 @@
 _repo: The-Fairy-Green_59726
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59726-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Fyleman, Rose
     gutenberg_agent_id: '50592'
     url: http://www.gutenberg.org/2009/agents/50592
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59726#The-Fairy-Green
 gutenberg_issued: '2019-06-10'
 gutenberg_type: Text
 identifiers:
